@@ -9,7 +9,7 @@ QuestEyes is an ongoing project to develop Eye Tracking technology using machine
 ### Repos and tools:
 
 #### QuestEyes_Server (note that QuestEyes-Server is in the process of being replaced with QuestEyes_Server_2.0, thus further development on 1.0 has ceased):
-QuestEyes_Server is a cross-platform application for Windows, Mac and Linux that connects to a QuestEyes hardware device to receive camera information and process eye gaze direction. The software also incorporates Over-The-Air update capability for the device, diagnostics tools, communcation to other apps and games, and calibration.
+QuestEyes_Server is a cross-platform application for Windows, Mac and Linux that connects to a QuestEyes hardware device to receive camera information and process eye gaze direction. The software also incorporates Over-The-Air update capability for the device, diagnostics tools, communication to other apps and games which can use the eye tracking information, and calibration.
 
 #### QuestEyes_ESP: 
 QuestEyes_ESP is the firmware package for the QuestEyes hardware device that incorporates a camera which streams to the QuestEyes_Server software, it also incorporates a WiFi setup procedure and the ability to be updated by OTA by the QuestEyes_Server.
