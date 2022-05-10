@@ -11,7 +11,7 @@ This project is mainly for VR applications such as Eye Tracking and mapping onto
 
 ### Repos and tools:
 
-#### QuestEyes_Server (note that QuestEyes-Server is in the process of being replaced with QuestEyes_Server_2.0, thus further development on 1.0 has ceased):
+#### QuestEyes_Server (note that QuestEyes_Server is in the process of being replaced with QuestEyes_Server_2.0, thus further development on 1.0 has ceased):
 QuestEyes_Server is a cross-platform application for Windows, Mac and Linux that connects to a QuestEyes hardware device to receive camera information and process eye gaze direction. The software also incorporates Over-The-Air update capability for the device, diagnostics tools, communication to other apps and games which can use the eye tracking information via Open Sound Control (OSC), and device calibration.
 
 #### QuestEyes_ESP: 
