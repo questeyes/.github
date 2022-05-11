@@ -5,7 +5,7 @@
 QuestEyes is an ongoing project to develop Eye Tracking technology using machine learning techniques, and develop that technology into a product that allows accessible Eye Tracking by a unified network of software and hardware.
 This project is mainly for VR applications such as Eye Tracking and mapping onto virtual avatars, but the hardware device could be adapted into many other forms for other applications.
 
-#### Please note that all content within this organisation is still under development, and some listed features may be missing or incomplete. Please see the feature matrix to see what features are upcoming but not yet completed.
+#### Please note that all content within this organisation is still under development, and some listed features may be missing or incomplete. Please see the core feature matrix to see what features are upcoming but not yet completed.
 
 <br>
 
@@ -22,7 +22,7 @@ QuestEyes_ClientSimulator is a console application that emulates a QuestEyes har
 
 <br>
 
-### Feature matrix:
+### Core feature matrix:
 
 #### QuestEyes_Server:
 | Feature | Completed before replacement (v1.0) | Complete (v2.0) |
