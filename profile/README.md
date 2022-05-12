@@ -43,6 +43,9 @@ QuestEyes_ClientSimulator is a console application that emulates a QuestEyes har
 | Transmits camera information to QuestEyes software | Yes |
 | Wifi setup procedure | Yes |
 | Updates via OTA | In progress |
+| Hardware factory reset functionality | Not yet |
+| Hardware LED status functionality | Not yet |
+| Hardware battery level monitoring functionality | Not yet |
 
 #### QuestEyes_ClientSimulator:
 | Feature | Complete |
