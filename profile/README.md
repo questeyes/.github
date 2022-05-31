@@ -31,9 +31,11 @@ QuestEyes_ClientSimulator is a console application that emulates a QuestEyes har
 | Receives camera information from QuestEyes hardware | Yes | Yes |
 | Processes eye gaze direction | Was in progress | In progress |
 | Performs Over-The-Air updates of QuestEyes hardware | Was in progress | In progress |
+| Facilitates resetting of QuestEyes hardware | No | In progress |
 | Provides diagnostic tools | Yes | In progress (migrating) |
 | Communicates to other apps using Open Sound Control (OSC) | No | In progress |
 | Calibrates QuestEyes hardware | No | Not yet |
+| App and library licencing information panel | Was in progress | In progress |
 ###### Please also note that processing of eye gaze direction may be moved to be processed on the QuestEyes hardware instead of the software in the future, depending on suitability and hardware limitations.
 
 #### QuestEyes_ESP:
